@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "7887480139",
+    "project_id": "test-pro-712d2",
+    "storage_bucket": "test-pro-712d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7887480139:android:3bbe020c97ed7b0430f4ce",
+        "android_client_info": {
+          "package_name": "com.begali.test_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7887480139-j6qsvuv14sae4qt59o27k91inontcvki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.begali.test_pro",
+            "certificate_hash": "e9699676c267d8c91ff6461f534a6da670dc4709"
+          }
+        },
+        {
+          "client_id": "7887480139-1iok2n7nhajtk4skt97srb03qs0ln2cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEJxRunQuB1-Fb5bHfdlHBrVC5XF3KDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7887480139-1iok2n7nhajtk4skt97srb03qs0ln2cv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7887480139-2ljq15jnnpo96mfo9sqstkkpagjrti00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.begali.testPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
